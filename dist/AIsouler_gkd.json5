@@ -1,7 +1,7 @@
 {
   id: 666,
   name: "bbnhh的GKD订阅-手动维护",
-  version: 406,
+  version: 407,
   author: "bbnhh",
   supportUri: "https://github.com/AIsouler/GKD_subscription/issues/new/choose",
   categories: [

@@ -1,7 +1,7 @@
 {
   id: 666,
   name: "bbnhh的GKD订阅-手动维护",
-  version: 408,
+  version: 409,
   author: "bbnhh",
   supportUri: "https://github.com/AIsouler/GKD_subscription/issues/new/choose",
   categories: [
@@ -11515,8 +11515,7 @@
                 // 强制在匹配到后立即执行，不等待布局稳定
                 forcedTime: 1000, 
                 // 有些 View 官方接口 clickable 为 false，可以强制用坐标点中心
-                action: 'clickCenter',
-                snapshotUrls: "https://i.gkd.li/i/1773196086896", // 你最新的快照
+                action: 'click',
                 },
                 {
                 key: 1,
